@@ -7,7 +7,6 @@ It is an organic data source for data collection and research. Sociological, pol
 ![twsn](https://github.com/omerkrkcc/ML-Telephone-Price-Range-Determination-97-Accuracy/assets/92057033/1ac220ba-4e33-41f3-92ae-3c137f43c03e)
 
 <h2>Technologies Used </h2>
-
 <br>• Python </br>
 <br>• Zemberek /br>
 <br>• JPype /br>
