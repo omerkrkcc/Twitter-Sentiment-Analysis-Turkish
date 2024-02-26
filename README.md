@@ -1,4 +1,4 @@
-<h1>Twitter Sentiment Analysis - Turkish NLP Project  </h1>
+<h1>Twitter Sentiment Analysis - Turkish NLP Project - Accuracy : %86 </h1>
 Twitter sentiment analysis, one of the types of sentiment analysis, is the process of identifying the emotional tone behind a set of words on Twitter. It is an automated technique that extracts meaningful information about the attitudes, emotions and opinions of users on Twitter.
 It is an organic data source for data collection and research. Sociological, political, economic and analytical analysis is currently being conducted for many fields. Twitter is one of the best places to take the pulse of public opinion.
 
