@@ -4,7 +4,7 @@ It is an organic data source for data collection and research. Sociological, pol
 
 <h2>Overview</h2>
 
-![twsem](https://github.com/omerkrkcc/ML-Telephone-Price-Range-Determination-97-Accuracy/assets/92057033/0cc5bfc9-b2e0-45f4-a54b-3e6b720cafee)
+![twsn](https://github.com/omerkrkcc/ML-Telephone-Price-Range-Determination-97-Accuracy/assets/92057033/1ac220ba-4e33-41f3-92ae-3c137f43c03e)
 
 <h2>Technologies Used </h2>
 
